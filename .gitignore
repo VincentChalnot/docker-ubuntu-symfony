@@ -1,0 +1,6 @@
+/data/*
+/logs/*
+/www/ssh/*
+/.env
+
+!.gitkeep
